@@ -1,2 +1,2 @@
 # git_lessons
-Practice for Yandex Git course
+Just some practice for Yandex Git course)
