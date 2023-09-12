@@ -1,2 +1,3 @@
-# git_lessons
+# first-project
+### (git_lessons)
 Just some practice for Yandex Git course)
